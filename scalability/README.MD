@@ -1,3 +1,7 @@
+# ⚠️ Moved to other repository
+
+Go to https://github.com/nerds-ufes/Polkalyzer for the new version!
+
 # Polkalyzer - Polka analyzer tool for any given topology.
 
 ![Polkalyzer Explained](./utils/imgs/PolkalyzerBehavior.png)
